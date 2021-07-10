@@ -1,0 +1,77 @@
+
+.card-container {
+  width: 50vw;
+
+  display: flex;
+  flex-direction: row;
+
+  background-color: white;
+
+  border: 5px solid white;
+  border-radius: 12px;
+
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.stats {
+  width: stretch;
+  height: stretch;
+
+  text-align: center;
+  
+  margin-top: 50px;
+}
+
+.types {
+  height: 30px;
+  width: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  text-align: center;
+}
+
+#type-tag {
+  min-width: fit-content;
+  min-width: 100px;
+
+  background-color: rgb(238, 64, 53);
+  
+  border-radius: 8px;
+
+  margin-right: 10px;
+
+  color: white;
+}
+
+
+.atk-def {
+  height: 30px;
+  width: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  text-align: center;
+}
+
+#atk-def-tag {
+  min-width: fit-content;
+  min-width: 100px;
+
+  background-color: rgb(53, 238, 124);
+  
+  border-radius: 8px;
+
+  margin-right: 10px;
+
+  color: white;
+}
+
+#pokemon-image {
+  width: 300px;
+  height: 300px;
+}
