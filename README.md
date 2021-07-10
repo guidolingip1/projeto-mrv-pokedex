@@ -7,4 +7,4 @@ Fiz o projeto pois precisava entregar um projeto final para o Bootcamp do MRV.
 <br/>
 A idéia veio de um vídeo que eu vi alguns meses atrás, e depois de muito estudo eu pensei que conseguiria implementar a minha própria versão (sem copiar de ninguém), e eu consegui 🤗.
 ## Como testar?
-Simples, só baixar o clonar o projeto, abrir um terminal no local e rodar um "npm install" e depois um "npm start".
+Simples, só baixar ou clonar o projeto, abrir um terminal no local e rodar um "npm install" e depois um "npm start".
